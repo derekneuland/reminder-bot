@@ -1,0 +1,15 @@
+{
+  "name": "reminder-bot",
+  "version": "1.0.0",
+  "description": "reminder chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "reminder-bot"
+  },
+  "author": "Derek Neuland",
+  "license": "ISC"
+}
