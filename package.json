@@ -13,6 +13,7 @@
   "author": "Derek Neuland",
   "license": "ISC",
   "dependencies": {
-    "botbuilder": "^3.9.0"
+    "botbuilder": "^3.9.0",
+    "restify": "^5.0.1"
   }
 }
