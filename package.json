@@ -11,5 +11,8 @@
     "url": "reminder-bot"
   },
   "author": "Derek Neuland",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.9.0"
+  }
 }
